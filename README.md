@@ -20,7 +20,7 @@ Generate Simulation Report Once the simulation is complete, you can generate a s
 Save and Document Results Save your project by clicking File → Save Project. Take screenshots of the waveform window and include them in your lab report to document your results. You can include the timing diagram from the simulation window showing the correct functionality of the Seven Segment across different select inputs and data inputs.
 Close the Simulation Once done, by going to Simulation → "Close Simulation
 
-Input/Output Signal Diagram:
+# Input/Output Signal Diagram:
 <img width="1919" height="1079" alt="Screenshot 2025-08-29 205623" src="https://github.com/user-attachments/assets/0650de7c-0af6-426e-87d3-b9de479c9784" />
 
 # RTL Code:
